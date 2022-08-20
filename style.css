@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(72, 9, 9);
+}
+
+button{
+    background-color: #166490;
+    border: solid;
+    border-radius: 30px;
+    width: 50%;
+    height: 200px;
+    font-size: 50px;
+    color: #c3e7ff;
+    align-items: center;
+}
+
+h2{
+    color:#c3e7ff;
+    background-color: black;
+}
+
+.buttons{
+    position: relative;
+    margin-bottom: 10px;
+    top: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
